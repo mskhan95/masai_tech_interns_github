@@ -18,8 +18,8 @@
 # Name- Rajesh Pachika
 ## Portfolio Link- https://rajesh-p-07.github.io/
 
-# Shivam Kumar
-## Portfolio : https://shivamkumar24.github.io/
+# Name - Shivam Kumar
+## Portfolio Link - https://shivamkumar24.github.io/
 
 # Name - Yash Kumar Pal
 ## Portfolio Link - https://abouttheyash.netlify.app/
