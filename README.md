@@ -1,5 +1,13 @@
 # masai_tech_interns_github
 
+# Name : Gaurav Shirke
+## Portfolio Link - https://gauravshirkegs.github.io/ 
+
+# Name - Tejas Yelve
+## Portfolio Link - https://yelvetejas.github.io/
+
+# Name - Shaifali
+## Portfolio Link - https://shaifalij-99.github.io/
 
 # Name - Sunil Chaudhary
 ## Portfolio Link- <https://sunil3520.github.io/>
@@ -16,8 +24,8 @@
 # Name- Rajesh Pachika
 ## Portfolio Link- https://rajesh-p-07.github.io/
 
-# Shivam Kumar
-## Portfolio : https://shivamkumar24.github.io/
+# Name - Shivam Kumar
+## Portfolio Link - https://shivamkumar24.github.io/
 
 # Name - Yash Kumar Pal
 ## Portfolio Link - https://abouttheyash.netlify.app/
@@ -34,6 +42,9 @@
 # Name - Ranbir Singh
 ## Portfolio Link - https://sranbir392.github.io/
 
+# Name - Vishal Girhepunje
+## Portfolio Link - https://vishal-girhepunje.github.io/
+
 # Name - Anmol Jagota
 ## Portfolio Link - https://anmoljagota.github.io/
 
@@ -45,3 +56,4 @@
 
 # Name - Abhishek Kumar
 ## Portfolio Link - https://abhi05112002hacked404.github.io/Abhishek-kumar.github.io/git
+
