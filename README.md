@@ -1,7 +1,5 @@
 # masai_tech_interns_github
 
-# NameTejas Yelve
-## Portfolio Link:https://yelvetejas.github.io/
 
 # Name - Yash Kumar Pal
 
