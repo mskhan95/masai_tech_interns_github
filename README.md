@@ -21,3 +21,6 @@
 # Name - Ranbir Singh
 ## Portfolio Link - https://sranbir392.github.io/
 
+# Name - Anmol Jagota
+## Portfolio Link - https://anmoljagota.github.io/
+
