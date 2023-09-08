@@ -31,3 +31,5 @@
 # Name - Ranbir Singh
 ## Portfolio Link - https://sranbir392.github.io/
 
+# Name - Rishu Kumar Nayak
+## Portfolio Link - https://rishunayak.github.io/
