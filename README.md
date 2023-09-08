@@ -39,6 +39,9 @@
 # Name - Ranbir Singh
 ## Portfolio Link - https://sranbir392.github.io/
 
+# Name - Vishal Girhepunje
+## Portfolio Link - https://vishal-girhepunje.github.io/
+
 # Name - Anmol Jagota
 ## Portfolio Link - https://anmoljagota.github.io/
 
@@ -47,4 +50,3 @@
 
 # Name - Kiran Ravindra Wankhade
 ## Portfolio Link - https://kiranwankhade.github.io/
-
