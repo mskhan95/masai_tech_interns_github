@@ -1,4 +1,2 @@
-# masai_tech_interns_github
-
-# Name - Mohd Shaban Khan
-## Portfolio Link - https://mskhan95.github.io/
+# Name - Bhavnesh Arora
+## Portfolio Link - https://bhavnesh1811.github.io/
