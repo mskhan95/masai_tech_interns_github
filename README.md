@@ -1,5 +1,14 @@
 # masai_tech_interns_github
 
+# Name - Tejas Yelve
+## Portfolio Link - https://yelvetejas.github.io/
+
+# Name - Shaifali
+## Portfolio Link - https://shaifalij-99.github.io/
+
+# Name - Sunil Chaudhary
+## Portfolio Link- <https://sunil3520.github.io/>
+
 # Name - Varun Ergurala
 ## Portfolio Link- <https://varun8177.github.io/>
 
@@ -12,8 +21,8 @@
 # Name- Rajesh Pachika
 ## Portfolio Link- https://rajesh-p-07.github.io/
 
-# Shivam Kumar
-## Portfolio : https://shivamkumar24.github.io/
+# Name - Shivam Kumar
+## Portfolio Link - https://shivamkumar24.github.io/
 
 # Name - Yash Kumar Pal
 ## Portfolio Link - https://abouttheyash.netlify.app/
