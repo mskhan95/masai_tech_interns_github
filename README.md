@@ -30,8 +30,12 @@
 # Name - Ranbir Singh
 ## Portfolio Link - https://sranbir392.github.io/
 
+# Name - Anmol Jagota
+## Portfolio Link - https://anmoljagota.github.io/
+
 # Name - Rishu Kumar Nayak
 ## Portfolio Link - https://rishunayak.github.io/
 
 # Name - Kiran Ravindra Wankhade
 ## Portfolio Link - https://kiranwankhade.github.io/
+
