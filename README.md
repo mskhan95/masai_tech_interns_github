@@ -2,8 +2,8 @@
 
 
 
-# Shivam Kumar
-## Portfolio : https://shivamkumar24.github.io/
+# Name - Shivam Kumar
+## Portfolio - https://shivamkumar24.github.io/
 
 # Name - Yash Kumar Pal
 ## Portfolio Link - https://abouttheyash.netlify.app/
