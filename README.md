@@ -8,3 +8,5 @@
 # Name - Mohd Shaban Khan
 ## Portfolio Link - https://mskhan95.github.io/
 
+# Name - Jyoti Ranjan Ghibila
+## Portfolio Link - https://jyotiranjanghibila.github.io/
